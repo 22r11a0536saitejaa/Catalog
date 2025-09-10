@@ -1,7 +1,7 @@
 import java.nio.file.*;
 import org.json.JSONObject;
 
-public class PolynomialSolver {
+public class catalog {
     public static void main(String[] args) {
         try {
             // Read JSON file (make sure input.json is in same directory)
